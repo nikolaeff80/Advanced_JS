@@ -1,0 +1,9 @@
+.err{
+  display: inline-block;
+  border: 1px solid red;
+  padding:10px;
+  margin: 10px auto;
+}
+.err-cont{
+  text-align:center;
+}
